@@ -98,13 +98,16 @@ Present the difference of total revenue in each season in a line chart.
 ## Conclusion
 
 
-1- The highest average revenue is generated between 3 PM and 7 PM.
+- The highest average revenue is generated between 3 PM and 7 PM.
 
-2- The highest average revenue is observed between March and October.
 
-3- The third season is the most profitable.
+- The highest average revenue is observed between March and October.
 
-4- The most common rider type is registered users.
+
+- The third season is the most profitable.
+
+
+- The most common rider type is registered users.
 
 
 
